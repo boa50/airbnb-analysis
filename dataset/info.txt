@@ -1,0 +1,2 @@
+Place the dataset files in this folder.
+You can create a specific folder for each city you want to analyze.
