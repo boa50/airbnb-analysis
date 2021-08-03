@@ -10,7 +10,13 @@ Sometimes it is very difficult to compare which room has the best price compared
 
 These are some questions tried to be ansewered by this project.
 
+This project was developed following the CRISP-DM process.
+
+## Summary of results
+
 In this project one of the conclusions is that the more privative the space, the prices are higher.
+
+Other thing to be noted is the higher the ratings higher the prices.
 
 The regression algorithm used to analyze the features with more importance to determine the prices of the rooms was not very useful with a low R².
 
@@ -37,3 +43,9 @@ The project consists of a single jupyter notebook (notebook.ipynb) containing al
 The container folder has the necessary files to create the Docker container.
 
 The dataset folder is where you can put the data used. You can organize the data on a folder structure like /dataset/melbourne/listings.csv
+
+## Acknowledgments
+
+- Airbnb to make available the data to use in this project.
+- Udacity Data Scientist Nanodegree Program to show more ways to analyze the data.
+- https://stats.stackexchange.com/questions/12900/when-is-r-squared-negative to make me understand more the idea of the R² metric.
